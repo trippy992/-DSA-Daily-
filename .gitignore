@@ -1,0 +1,7 @@
+# compiled outputs & local editor state
+*.exe
+*.out
+*.o
+a.out
+.vscode/
+.idea/
