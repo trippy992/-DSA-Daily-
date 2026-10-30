@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Problems%20solved-2-00e5ff?style=for-the-badge&labelColor=0d1117)
+![Progress](https://img.shields.io/badge/Problems%20solved-3-00e5ff?style=for-the-badge&labelColor=0d1117)
 ![Streak](https://img.shields.io/badge/Days%20active-1-ff00cc?style=for-the-badge&labelColor=0d1117)
 
 </div>
@@ -16,6 +16,7 @@
 |-----|---------|-------|----------|--------|
 | 01 | BFS of Graph | Graphs, Queue | [bfs_of_graph.cpp](day01-bfs-dfs/bfs_of_graph.cpp) | ✅ |
 | 01 | DFS of Graph | Graphs, Recursion | [dfs_of_graph.cpp](day01-bfs-dfs/dfs_of_graph.cpp) | ✅ |
+| 02 | Detect Cycle in an Undirected Graph | Graphs, DFS + Parent Tracking | [detect_cycle_undirected.cpp](day02-graphs/detect_cycle_undirected.cpp) | ✅ |
 
 ## 📁 Structure
 
@@ -24,6 +25,8 @@ DSA-Daily/
 ├── day01-bfs-dfs/
 │   ├── bfs_of_graph.cpp
 │   └── dfs_of_graph.cpp
+├── day02-graphs/
+│   └── detect_cycle_undirected.cpp
 └── README.md
 ```
 
