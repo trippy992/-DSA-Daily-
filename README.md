@@ -6,7 +6,7 @@
 <div align="center">
 
 ![Progress](https://img.shields.io/badge/Problems%20solved-3-00e5ff?style=for-the-badge&labelColor=0d1117)
-![Streak](https://img.shields.io/badge/Days%20active-1-ff00cc?style=for-the-badge&labelColor=0d1117)
+![Streak](https://img.shields.io/badge/Days%20active-2-ff00cc?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
