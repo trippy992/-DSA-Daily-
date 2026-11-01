@@ -18,6 +18,7 @@
 | 01 | DFS of Graph | Graphs, Recursion | [dfs_of_graph.cpp](day01-bfs-dfs/dfs_of_graph.cpp) | ✅ |
 | 02 | Detect Cycle in an Undirected Graph | Graphs, DFS + Parent Tracking | [detect_cycle_undirected.cpp](day02-graphs/detect_cycle_undirected.cpp) | ✅ |
 | 03 | Topological Sort (DFS) | Graphs, DAG, DFS Post-order | [topological_sort_dfs.cpp](day03-topo-dfs/topological_sort_dfs.cpp) | ✅ |
+| 03 | Topological Sort (Kahn's / BFS) | Graphs, DAG, In-degree + Queue | [topological_sort_kahns.cpp](day03-topo-dfs/topological_sort_kahns.cpp) | ✅ |
 
 ## 📁 Structure
 
@@ -29,7 +30,8 @@ DSA-Daily/
 ├── day02-graphs/
 │   └── detect_cycle_undirected.cpp
 ├── day03-topo-dfs/
-│   └── topological_sort_dfs.cpp
+│   ├── topological_sort_dfs.cpp
+│   └── topological_sort_kahns.cpp
 └── README.md
 ```
 
