@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Problems%20solved-4-00e5ff?style=for-the-badge&labelColor=0d1117)
+![Progress](https://img.shields.io/badge/Problems%20solved-5-00e5ff?style=for-the-badge&labelColor=0d1117)
 ![Streak](https://img.shields.io/badge/Days%20active-3-ff00cc?style=for-the-badge&labelColor=0d1117)
 
 </div>
@@ -19,6 +19,7 @@
 | 02 | Detect Cycle in an Undirected Graph | Graphs, DFS + Parent Tracking | [detect_cycle_undirected.cpp](day02-graphs/detect_cycle_undirected.cpp) | ✅ |
 | 03 | Topological Sort (DFS) | Graphs, DAG, DFS Post-order | [topological_sort_dfs.cpp](day03-topo-dfs/topological_sort_dfs.cpp) | ✅ |
 | 03 | Topological Sort (Kahn's / BFS) | Graphs, DAG, In-degree + Queue | [topological_sort_kahns.cpp](day03-topo-dfs/topological_sort_kahns.cpp) | ✅ |
+| 04 | Directed Graph Cycle Detection | Graphs, Kahn's / T.Sort Refusal | [directed_cycle_kahns.cpp](day04-cycle-kahns/directed_cycle_kahns.cpp) | ✅ |
 
 ## 📁 Structure
 
@@ -32,6 +33,8 @@ DSA-Daily/
 ├── day03-topo-dfs/
 │   ├── topological_sort_dfs.cpp
 │   └── topological_sort_kahns.cpp
+├── day04-cycle-kahns/
+│   └── directed_cycle_kahns.cpp
 └── README.md
 ```
 
