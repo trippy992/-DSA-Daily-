@@ -5,8 +5,8 @@
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Problems%20solved-5-00e5ff?style=for-the-badge&labelColor=0d1117)
-![Streak](https://img.shields.io/badge/Days%20active-3-ff00cc?style=for-the-badge&labelColor=0d1117)
+![Progress](https://img.shields.io/badge/Problems%20solved-6-00e5ff?style=for-the-badge&labelColor=0d1117)
+![Streak](https://img.shields.io/badge/Days%20active-5-ff00cc?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -20,6 +20,7 @@
 | 03 | Topological Sort (DFS) | Graphs, DAG, DFS Post-order | [topological_sort_dfs.cpp](day03-topo-dfs/topological_sort_dfs.cpp) | ✅ |
 | 03 | Topological Sort (Kahn's / BFS) | Graphs, DAG, In-degree + Queue | [topological_sort_kahns.cpp](day03-topo-dfs/topological_sort_kahns.cpp) | ✅ |
 | 04 | Directed Graph Cycle Detection | Graphs, Kahn's / T.Sort Refusal | [directed_cycle_kahns.cpp](day04-cycle-kahns/directed_cycle_kahns.cpp) | ✅ |
+| 05 | Check if Graph is Bipartite | Graphs, BFS 2-coloring | [is_bipartite_bfs.cpp](day05-bipartite/is_bipartite_bfs.cpp) | ✅ |
 
 ## 📁 Structure
 
@@ -35,6 +36,8 @@ DSA-Daily/
 │   └── topological_sort_kahns.cpp
 ├── day04-cycle-kahns/
 │   └── directed_cycle_kahns.cpp
+├── day05-bipartite/
+│   └── is_bipartite_bfs.cpp
 └── README.md
 ```
 
